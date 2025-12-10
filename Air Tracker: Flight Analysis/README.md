@@ -80,3 +80,12 @@ Through this project I learned:
 	•	How to run analytical SQL queries
 	•	How to build a Streamlit dashboard connected to a live database
 	•	How to visualise aviation data in a clean and structured format
+
+**Files I used**
+
+The files I used for the project:
+	•	AirTracker_FlightAnalysis.ipynb - For Data Extraction from AeroDataBox API
+	•	insert_airports.py - To insert Airport data into SQL database
+	•	insert_aircrafts.py - To insert Aircraft data into SQL database
+	•	insert_flights.py - To insert Flights data into SQL database
+	•	insert_airport_delays.py - To insert Airport delay data into SQL database
